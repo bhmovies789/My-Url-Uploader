@@ -11,7 +11,6 @@ Hi {} 🥰
 
 Use help button to know how to use me
 
-🦊 <b>Maintained By</b> : [Tellybots](https://telegram.me/TellyBots)
 """
     HELP_TEXT = """
 You need Help ?? 😅
