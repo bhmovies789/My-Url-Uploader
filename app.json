@@ -20,7 +20,7 @@
       "value": "ANYTHING"
     },
     "AUTH_USERS": {
-      "description": "auth user id seprated by space",
+      "description": "Auth user id seprated by space",
       "value": ""
     },
     "BOT_TOKEN": {
